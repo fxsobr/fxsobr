@@ -9,8 +9,6 @@
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=fxsobr&theme=tokyonight_duo&locale=pt-br" alt="fxsobr" />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=fxsobr&show_icons=true&locale=en" alt="fxsobr" />
 </p>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fxsobr&show_icons=true&locale=en" alt="fxsobr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fxsobr&show_icons=true&locale=en&layout=compact" alt="fxsobr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fxsobr&show_icons=true&locale=en" alt="fxsobr" /></p>
 
