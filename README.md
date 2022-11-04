@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxsobr&layout=compact)](https://github.com/fxsobr/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fxsobr&theme=shades-of-purple&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fxsobr&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)
