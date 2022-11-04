@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=fxsobr&show_icons=true" />
 </picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxsobr)](https://github.com/fxsobr/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fxsobr&theme=shades-of-purple&locale=pt-br)](https://git.io/streak-stats)
