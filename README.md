@@ -7,7 +7,7 @@
 
 <div>
   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=fxsobr&theme=tokyonight_duo&locale=pt-br" alt="fxsobr" /></p>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fxsobr&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fxsobr&show_icons=true&locale=en" alt="fxsobr" /></p>
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fxsobr&show_icons=true&locale=en&layout=compact" alt="fxsobr" /></p>
 
