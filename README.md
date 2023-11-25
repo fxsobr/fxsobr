@@ -1,3 +1,5 @@
+<div style="background-color: blue; color: white; padding: 20px; text-align: center;">
+
 <h2 align="center">Olá 👋, me chamo Marcelo</h2>
 
 ###
@@ -41,3 +43,4 @@
 <img src="https://raw.githubusercontent.com/fxsobr/fxsobr/output/snake.svg" alt="Snake animation" />
 
 ###
+</div>
