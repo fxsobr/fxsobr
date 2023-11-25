@@ -11,6 +11,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/mce0lin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -26,12 +32,6 @@
   <a href="https://www.twitch.tv/githain" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif"  />
 </div>
 
 ###
